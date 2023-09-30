@@ -1,0 +1,5 @@
+python 3.7
+mediapipe==0.8.10
+autopy==4.0.0
+opencv-python
+numpy
